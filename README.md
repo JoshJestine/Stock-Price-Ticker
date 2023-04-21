@@ -4,6 +4,7 @@
 Stock Price Ticker is a web app that displays stock tickers for Indian stocks that have given consistent returns over a period of 5 years. The app provides users with real-time stock prices and allows them to track their favorite stocks. It also features a user-friendly interface that makes it easy to navigate and use.
 
 
+https://indian-stock-price.streamlit.app
 
 
 ## Features
