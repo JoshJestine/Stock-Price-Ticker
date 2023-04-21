@@ -13,7 +13,7 @@ Here are some features of the Stock Price Ticker web app:
 
 - Displays stock tickers for Indian stocks that have given consistent returns over a period of 5 years
 - Provides users with real-time stock prices
-- Allows users to track their favorite stocks
+- Frequent updates to list of stocks
 - Features a user-friendly interface that makes it easy to navigate and use
 ## Installation
 
